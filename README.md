@@ -1,6 +1,6 @@
-### 💻 Stack:
+<h1 align="left">:wave: Hello there!</h1>
 
----
+### 💻 Stack:
 
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -13,11 +13,5 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### Codewars
-
-https://www.codewars.com/users/skywkie
 
 ---
