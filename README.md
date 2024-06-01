@@ -1,5 +1,7 @@
 <h1 align="left">:wave: Hello there!</h1>
 
+I'm junior frondend developer)))
+
 ---
 
 ### 🔥Tech stack
@@ -14,8 +16,10 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux toolkit" alt="redux toolkit" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### ☄️ Contact
+- :popcorn: &nbsp;**[Telegram](https://t.me/skywkie)**
