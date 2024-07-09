@@ -22,6 +22,8 @@ I'm junior frondend developer)))
 	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node js" alt="node js" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
+	<img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" title="prettier" alt="prettier" width="40" height="40"/>&nbsp;
 </div>
 
 ---
