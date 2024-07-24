@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there!</h1>
 
 <div>
-<img hight="300" width="700" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/master/assets/208593.gif"/>
+<img hight="300" width="700" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua.gif"/>
 </div>
 
 I'm junior frondend developer)))
