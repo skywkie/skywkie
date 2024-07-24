@@ -3,6 +3,7 @@
 <div align="center">
 <img width="780" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua.gif"/>
 <img width="780" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua2.gif"/>
+<img width="780" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua3.gif"/>
 </div>
 
 # About ME 💬 :
