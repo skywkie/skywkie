@@ -4,8 +4,6 @@
 <img hight="300" width="100%" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua.gif"/>
 </div>
 
-:wave:
-
 # About ME 💬 :
 
 ### - I'm junior frondend developer)))
