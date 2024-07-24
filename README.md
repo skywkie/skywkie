@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there!</h1>
 
 <div align="center">
-<img hight="300" width="100%" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua.gif"/>
+<img hight="300" width="100%" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua1.gif"/>
 </div>
 
 # About ME 💬 :
