@@ -4,7 +4,7 @@
 <img width="780" alt="killua.gif" align="center" src="https://github.com/skywkie/skywkie/blob/main/assets/killua.gif"/>
 </div>
 
-# About ME 💬 :
+# About Me:
 
 ### - I'm junior frondend developer)))
 
